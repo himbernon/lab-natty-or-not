@@ -1,42 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Projeto responsável por otimizar o tempo de atendimento dos funcionários, detectando imediatamente os problemas reportados com base nos softwares instalados e padrões utilizados pela empresa.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+O software coleta diariamente informações dos computadores e envia para o sistema web, esses dados serão então comparados com o padrão de softwares e configurações utilizados pela empresa e qualquer problema citado pelo usuário terá uma resposta imediata de solução pelo atendente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+> Software cliente (SGR) C# / Sistema/Servidor Web (SGR Monitor) PHP / ChatGPT (API)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O projeto foi iniciado quando diversos funcionários foram se aposentando e a carga de trabalho foram sendo distribuídos com os que permaneceram, isso sobrecarregou a equipe e a solução foi criar algo para aliviar isso e dar mais qualidade no ambiente de trabalho (menos estresse), além de facilitar a execução de diversas tarefas demoradas e repetitivas com poucos cliques.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Os resultados foram e estão sendo positivos até o momento, porém, o código fonte não pode ser publicado aqui (uso empresarial).
 
 ### Exemplos e Insigths
 
